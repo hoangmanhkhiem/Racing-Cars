@@ -1,2 +1,9 @@
 # Racing-Cars
-Using Pygame Library
+
+### Author : Hoang Manh Khiem (Skromnyy)
+
+###  Tech Stack
+  + Python
+  + Pygame
+
+### Preview

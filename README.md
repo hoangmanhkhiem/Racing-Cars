@@ -7,5 +7,5 @@
   + Pygame
 
 ### Preview
-<img src="https://github.com/hoangmanhkhiem/Racing-Cars/blob/main/Screenshot%202023-08-04%20221923.png">
-<img src="https://github.com/hoangmanhkhiem/Racing-Cars/blob/main/Screenshot%202023-08-04%20221940.png">
+<img src="https://github.com/hoangmanhkhiem/Racing-Cars/blob/main/Screenshot%202023-08-04%20222544.png">
+<img src="https://github.com/hoangmanhkhiem/Racing-Cars/blob/main/Screenshot%202023-08-04%20222608.png">
